@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.f898a4ab.css",
-    "main.js": "/Portfolio/static/js/main.cfbefb8a.js",
+    "main.js": "/Portfolio/static/js/main.2f904329.js",
     "static/js/415.4d6acbeb.chunk.js": "/Portfolio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/project.png": "/Portfolio/static/media/project.fa9e7e6485064fa8904b.png",
@@ -11,18 +11,18 @@
     "static/media/project1.png": "/Portfolio/static/media/project1.481357cc36c9697f8f1d.png",
     "static/media/project4.png": "/Portfolio/static/media/project4.a761d02c62e494be02e4.png",
     "static/media/about-img.jpg": "/Portfolio/static/media/about-img.d23f5d18770fdf2c7b81.jpg",
-    "static/media/Nilupulie_Hewagamage_CV.pdf": "/Portfolio/static/media/Nilupulie_Hewagamage_CV.e8d616bd187d144d71d7.pdf",
+    "static/media/Nilupulie-Hewagamage-CV.pdf": "/Portfolio/static/media/Nilupulie-Hewagamage-CV.73c78477c583e76ce343.pdf",
     "static/media/home-img.jpg": "/Portfolio/static/media/home-img.0b2d4afdaf82f18c6fad.jpg",
     "static/media/home-bg.jpg": "/Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/pre.svg": "/Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/Portfolio/index.html",
     "main.f898a4ab.css.map": "/Portfolio/static/css/main.f898a4ab.css.map",
-    "main.cfbefb8a.js.map": "/Portfolio/static/js/main.cfbefb8a.js.map",
+    "main.2f904329.js.map": "/Portfolio/static/js/main.2f904329.js.map",
     "415.4d6acbeb.chunk.js.map": "/Portfolio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f898a4ab.css",
-    "static/js/main.cfbefb8a.js"
+    "static/js/main.2f904329.js"
   ]
 }
