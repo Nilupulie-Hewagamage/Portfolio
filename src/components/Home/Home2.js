@@ -4,6 +4,8 @@ import {
   AiFillGithub,
   AiFillInstagram,
   AiFillFacebook,
+  AiFillContacts,
+  AiFillMail,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
 
@@ -57,6 +59,26 @@ function Home2() {
                   className="icon-colour home-social-icons"
                 >
                   <AiFillFacebook />
+                </a>
+                </li>
+                <li className="social-icons">
+                <a
+                  href="https://wa.me/+94761751421"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="icon-colour home-social-icons"
+                >
+                  <AiFillContacts />
+                </a>
+              </li>
+              <li className="social-icons">
+                <a
+                  href="mailto:nethminilupulie@gmail.com"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="icon-colour home-social-icons"
+                >
+                  <AiFillMail />
                 </a>
               </li>
             </ul>
